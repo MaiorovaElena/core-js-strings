@@ -352,6 +352,7 @@ function reverseWords(/* str */) {
  */
 function invertCase(/* str */) {
   throw new Error('Not implemented');
+}
 
 /**
  * Returns the result of string template and given parameters firstName and lastName.
